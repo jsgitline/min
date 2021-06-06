@@ -1,0 +1,15 @@
+DB_HOST     = "localhost"
+DB_NAME     = "voi"
+DB_USER     = "root"
+DB_PASS     = "root"
+
+GENERAL_URL = "http://voi.com:8888"
+
+ADMIN_EMAIL = "demo@scrolldown.ru"
+ADMIN_NAME  = "Admin Demo"
+ADMIN_LINK  = "/admin123"
+
+SMTP_SERVER = "smtp.beget.ru"
+SMTP_PORT   = 2525
+SMTP_USER   = "demo@scrolldown.ru"
+SMTP_PASS   = "Qwerty159753"
